@@ -13,7 +13,7 @@ public class class1 {
 	WebDriver driver;
   @Test
   public void Test1() {
-	  driver.switchTo().activeElement().sendKeys("Mumbai Indians");
+	  driver.switchTo().activeElement().sendKeys("pune Indians");
   }
   @BeforeMethod
   public void beforeMethod() {
